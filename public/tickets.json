@@ -1,0 +1,110 @@
+[
+  {
+    "id": "001",
+    "title": "Login Issue - Can't Access Account",
+    "description": "Customer cannot login using registered email and receives an authentication error.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-20T09:15:00Z"
+  },
+  {
+    "id": "002",
+    "title": "Payment Failed - Card Declined",
+    "description": "User reports payment fails with card decline message at checkout.",
+    "customer": "Sara Ali",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-20T10:30:00Z"
+  },
+  {
+    "id": "003",
+    "title": "Unable to Download Invoice",
+    "description": "Download button does not produce invoice PDF.",
+    "customer": "Rafi Khan",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2025-09-19T14:12:00Z"
+  },
+  {
+    "id": "004",
+    "title": "App Crash on Launch",
+    "description": "App crashes immediately after opening on Android 11 devices.",
+    "customer": "Neha Patel",
+    "priority": "Critical",
+    "status": "open",
+    "createdAt": "2025-09-18T07:45:00Z"
+  },
+  {
+    "id": "005",
+    "title": "Refund Not Processed",
+    "description": "Customer waiting for refund for 10+ days.",
+    "customer": "Bilal Ahmed",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2025-09-17T16:05:00Z"
+  },
+  {
+    "id": "006",
+    "title": "Wrong Billing Address",
+    "description": "Shipping address appears as billing address on invoice.",
+    "customer": "Leila Noor",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-16T11:00:00Z"
+  },
+  {
+    "id": "007",
+    "title": "Feature Request: Dark Mode",
+    "description": "User requests dark mode for the dashboard.",
+    "customer": "Adam Roy",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-15T09:30:00Z"
+  },
+  {
+    "id": "008",
+    "title": "Two-Factor Authentication Error",
+    "description": "2FA codes not being accepted for some users.",
+    "customer": "Priya Sen",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-14T12:20:00Z"
+  },
+  {
+    "id": "009",
+    "title": "Subscription Auto-Renewal",
+    "description": "Customer was charged but subscription not activated.",
+    "customer": "Hassan Noor",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2025-09-13T08:55:00Z"
+  },
+  {
+    "id": "010",
+    "title": "Missing Order Confirmation Email",
+    "description": "Order placed but confirmation email not received.",
+    "customer": "Anika Rahman",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2025-09-12T18:40:00Z"
+  },
+  {
+    "id": "011",
+    "title": "Unable to Update Profile Picture",
+    "description": "Upload fails with network error.",
+    "customer": "Rana Chowdhury",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2025-09-11T13:15:00Z"
+  },
+  {
+    "id": "012",
+    "title": "Slow Page Loading",
+    "description": "Dashboard loads slowly for users in certain regions.",
+    "customer": "Maya Islam",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2025-09-10T10:00:00Z"
+  }
+]
